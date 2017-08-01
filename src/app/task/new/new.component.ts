@@ -19,7 +19,7 @@ export class NewComponent implements OnInit {
   ngOnInit() {
   }
 
-  protected save(): void {
+  public save(): void {
     if (this.description) {
       const t = new Task();
       t.description = this.description;
