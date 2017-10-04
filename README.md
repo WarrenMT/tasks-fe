@@ -1,6 +1,8 @@
-# TasksFe
+# Tasks-fe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+This project is the front-end application witch goes with the Tasks-be application. This application is created to perform
+as a demo application for deployment on an openshift v3 platform using S2I. You can use this application with the s2i-angular-nginx
+image which can be found in my git repositories as well as on docker hub.
 
 ## Development server
 
